@@ -14,13 +14,21 @@ This folder contains the project files for the Requirement Analysis phase.
 - Fast response
 - Secure
 - Reliable
-
+- 
 ## Software Requirements
-- Python
+- Python 3.x
 - Flask
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
 - VS Code
+- Git
 - GitHub
 
 ## Hardware Requirements
-- Laptop/Desktop
+- Processor: Intel Core i3 or above
+- RAM: Minimum 4 GB
+- Storage: Minimum 10 GB free space
 - Internet Connection
