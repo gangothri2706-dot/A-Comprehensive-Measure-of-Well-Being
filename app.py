@@ -11,6 +11,8 @@ app = Flask(__name__)
 def home():
     return "<h2>Human Development Index Project</h2>"
 
+Development = pd.read_csv("HDI.csv")
+print(Development.head())
+
 if __name__ == "__main__":
     app.run(debug=True)
-    
